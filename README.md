@@ -4,4 +4,4 @@
 * Install required dependencies using (npm start) or (npm install).
 * Finally Run (npm run dev).
 
-![alt text](https://github.com/[SutharSanjay]/[REST_Countries]/[main]/ScreenShots.png?raw=true)
+![alt text](https://github.com/[SutharSanjay]/[REST_Countries]/ScreenShots.png?raw=true)
